@@ -18,3 +18,10 @@ O objetivo desta atividade é aprofundar o uso do controle de versão com GIT, f
 - Clareza e relevância do conteúdo nos arquivos.
 
 O link do repositório deve ser enviado no Google Classroom. Se o repositório for privado, deve ser compartilhado com o professor (*massilva*).
+
+       
+      O processo de instalação do GIT no Window:   https://github.com/FilipeSobreiraCampos/G88419-atividade-git/blob/main/docs/Instala%C3%A7%C3%A3o%20do%20GIT%20no%20Windows.md
+      O processo de instalação do GIT no Linux:   https://github.com/FilipeSobreiraCampos/G88419-atividade-git/blob/main/docs/%20instala%C3%A7%C3%A3o%20do%20GIT%20no%20Linux.md
+      Passo a passo para hospedar o código no GITHUB:   https://github.com/FilipeSobreiraCampos/G88419-atividade-git/blob/main/docs/Hospedar%20GitHub.md
+      Passo a passo para hospedar o código no GITLAB:   https://github.com/FilipeSobreiraCampos/G88419-atividade-git/blob/main/docs/Hospedar%20GitLab.md
+      Handbook do GIT - Principais comandos do GIT:   https://github.com/FilipeSobreiraCampos/G88419-atividade-git/blob/main/docs/HandBook%20Git.md
